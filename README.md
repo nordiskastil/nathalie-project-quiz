@@ -12,7 +12,7 @@ If you had more time, what would be next? I would like to add more questions and
 
 
 ## View it live
-
+https://brand-style-quiz.netlify.app/
 
 
 ## Getting Started with the Project
